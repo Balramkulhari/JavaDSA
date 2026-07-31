@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -31,8 +32,14 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
 ## Matrix
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
