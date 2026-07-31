@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Array
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/1572-matrix-diagonal-sum) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
