@@ -7,6 +7,7 @@
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/Balramkulhari/JavaDSA/tree/master/2396-strictly-palindromic-number) |
 | [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Balramkulhari/JavaDSA/tree/master/0283-move-zeroes) |
+| [2396-strictly-palindromic-number](https://github.com/Balramkulhari/JavaDSA/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Balramkulhari/JavaDSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
