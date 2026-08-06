@@ -10,6 +10,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Balramkulhari/JavaDSA/tree/master/2396-strictly-palindromic-number) |
 | [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/0112-path-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
