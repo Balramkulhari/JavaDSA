@@ -29,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Balramkulhari/JavaDSA/tree/master/0016-3sum-closest) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Balramkulhari/JavaDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/3731-find-missing-elements) |
@@ -39,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Balramkulhari/JavaDSA/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Balramkulhari/JavaDSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Balramkulhari/JavaDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -58,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Balramkulhari/JavaDSA/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Balramkulhari/JavaDSA/tree/master/0283-move-zeroes) |
 | [2396-strictly-palindromic-number](https://github.com/Balramkulhari/JavaDSA/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
