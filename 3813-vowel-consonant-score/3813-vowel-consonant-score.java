@@ -1,25 +1,31 @@
 class Solution {
     public int vowelConsonantScore(String s) {
-        int cons = 0;
-        int v = 0;
+        
 
-        for (int i = 0; i < s.length(); i++) {
-            char c = Character.toLowerCase(s.charAt(i));
+        int vowels = 0;
+        int consonants = 0;
 
-            if (Character.isDigit(c) || c == ' ') {
-                continue; // skip numbers and spaces
-            } else if (isVowel(c)) {
-                v++;
-            } else if (Character.isLetter(c)) {
-                cons++;
+        for(int i = 0; i < s.length(); i++) {
+
+            char c = s.charAt(i);
+
+
+            if(c >= 'a' && c <= 'z') {
+                  if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+                    vowels++;
+                }
+                else {
+                    consonants++;
+                }
+
             }
         }
 
-        if (cons == 0) return 0;
-        return (int) Math.floor((double) v / cons);
-    }
+    if (consonants == 0) {
+            return 0;
+        }
 
-    private boolean isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
+        return vowels / consonants;
+
     }
 }
