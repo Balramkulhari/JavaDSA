@@ -51,6 +51,7 @@
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3813-vowel-consonant-score](https://github.com/Balramkulhari/JavaDSA/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
 |  |
