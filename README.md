@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -80,6 +81,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
 ## Recursion
@@ -149,4 +151,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Balramkulhari/JavaDSA/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
