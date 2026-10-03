@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
 ## Recursion
@@ -159,4 +161,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
