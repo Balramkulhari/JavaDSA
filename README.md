@@ -51,6 +51,7 @@
 | [0016-3sum-closest](https://github.com/Balramkulhari/JavaDSA/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Balramkulhari/JavaDSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
+| [0565-array-nesting](https://github.com/Balramkulhari/JavaDSA/tree/master/0565-array-nesting) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Balramkulhari/JavaDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/1572-matrix-diagonal-sum) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/0112-path-sum) |
+| [0565-array-nesting](https://github.com/Balramkulhari/JavaDSA/tree/master/0565-array-nesting) |
 | [3310-remove-methods-from-project](https://github.com/Balramkulhari/JavaDSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
