@@ -19,6 +19,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Balramkulhari/JavaDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balramkulhari/JavaDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -27,6 +28,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Balramkulhari/JavaDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -166,9 +168,11 @@
 | [0022-generate-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Balramkulhari/JavaDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Balramkulhari/JavaDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
