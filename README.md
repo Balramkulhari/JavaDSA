@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Balramkulhari/JavaDSA/tree/master/0128-longest-consecutive-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balramkulhari/JavaDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/3731-find-missing-elements) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Balramkulhari/JavaDSA/tree/master/0016-3sum-closest) |
+| [0128-longest-consecutive-sequence](https://github.com/Balramkulhari/JavaDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Balramkulhari/JavaDSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Balramkulhari/JavaDSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balramkulhari/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Balramkulhari/JavaDSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
