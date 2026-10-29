@@ -9,6 +9,7 @@
 | [0836-rectangle-overlap](https://github.com/Balramkulhari/JavaDSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Balramkulhari/JavaDSA/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Balramkulhari/JavaDSA/tree/master/2409-count-days-spent-together) |
 | [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -20,6 +21,7 @@
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Balramkulhari/JavaDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2409-count-days-spent-together](https://github.com/Balramkulhari/JavaDSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balramkulhari/JavaDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
