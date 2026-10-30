@@ -65,6 +65,7 @@
 | [0565-array-nesting](https://github.com/Balramkulhari/JavaDSA/tree/master/0565-array-nesting) |
 | [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Balramkulhari/JavaDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Balramkulhari/JavaDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balramkulhari/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -192,9 +193,14 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Balramkulhari/JavaDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balramkulhari/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Balramkulhari/JavaDSA/tree/master/0128-longest-consecutive-sequence) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Balramkulhari/JavaDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
