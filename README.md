@@ -45,6 +45,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Balramkulhari/JavaDSA/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/Balramkulhari/JavaDSA/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Balramkulhari/JavaDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balramkulhari/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -62,6 +63,7 @@
 | [0414-third-maximum-number](https://github.com/Balramkulhari/JavaDSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0565-array-nesting](https://github.com/Balramkulhari/JavaDSA/tree/master/0565-array-nesting) |
+| [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Balramkulhari/JavaDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Balramkulhari/JavaDSA/tree/master/1572-matrix-diagonal-sum) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Balramkulhari/JavaDSA/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Balramkulhari/JavaDSA/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 | [2396-strictly-palindromic-number](https://github.com/Balramkulhari/JavaDSA/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Balramkulhari/JavaDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -161,6 +165,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balramkulhari/JavaDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Geometry
 |  |
@@ -186,6 +191,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balramkulhari/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Union-Find
 |  |
