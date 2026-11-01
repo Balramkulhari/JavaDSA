@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Balramkulhari/JavaDSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
@@ -61,6 +62,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Balramkulhari/JavaDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Balramkulhari/JavaDSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Balramkulhari/JavaDSA/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0565-array-nesting](https://github.com/Balramkulhari/JavaDSA/tree/master/0565-array-nesting) |
 | [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
