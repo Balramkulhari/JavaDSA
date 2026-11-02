@@ -6,6 +6,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Balramkulhari/JavaDSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Balramkulhari/JavaDSA/tree/master/0877-stone-game) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Balramkulhari/JavaDSA/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/Balramkulhari/JavaDSA/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Balramkulhari/JavaDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balramkulhari/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -63,6 +65,7 @@
 | [0283-move-zeroes](https://github.com/Balramkulhari/JavaDSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Balramkulhari/JavaDSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Balramkulhari/JavaDSA/tree/master/0486-predict-the-winner) |
 | [0565-array-nesting](https://github.com/Balramkulhari/JavaDSA/tree/master/0565-array-nesting) |
 | [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
