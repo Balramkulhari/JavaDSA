@@ -76,6 +76,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balramkulhari/JavaDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2614-prime-in-diagonal](https://github.com/Balramkulhari/JavaDSA/tree/master/2614-prime-in-diagonal) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Balramkulhari/JavaDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3731-find-missing-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -173,6 +174,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Balramkulhari/JavaDSA/tree/master/0658-find-k-closest-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balramkulhari/JavaDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Balramkulhari/JavaDSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Geometry
 |  |
 | ------- |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Balramkulhari/JavaDSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Balramkulhari/JavaDSA/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
