@@ -23,6 +23,7 @@
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Balramkulhari/JavaDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Balramkulhari/JavaDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Balramkulhari/JavaDSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balramkulhari/JavaDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Balramkulhari/JavaDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Balramkulhari/JavaDSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/Balramkulhari/JavaDSA/tree/master/3813-vowel-consonant-score) |
