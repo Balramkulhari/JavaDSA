@@ -23,6 +23,7 @@
 | [0412-fizz-buzz](https://github.com/Balramkulhari/JavaDSA/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/Balramkulhari/JavaDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Balramkulhari/JavaDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Balramkulhari/JavaDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Balramkulhari/JavaDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Balramkulhari/JavaDSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Balramkulhari/JavaDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
